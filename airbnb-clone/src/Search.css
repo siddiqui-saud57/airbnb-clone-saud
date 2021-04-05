@@ -1,0 +1,14 @@
+.search {
+  left: 25%;
+  position: relative;
+  width: 100vw;
+}
+.search > h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 359px;
+  background-color: white;
+  left: 0;
+  position: absolute;
+}

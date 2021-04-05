@@ -1,0 +1,12 @@
+.searchPage {
+  margin: 20px;
+}
+.searchPage__info > p {
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+.searchPage__info > button {
+  border-radius: 30px;
+  text-transform: inherit;
+  margin: 5px;
+}
